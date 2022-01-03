@@ -11,7 +11,7 @@ Why another repo - It is my way of giving it back to the commuinity - especially
 Before starting, some pre-requisites are
 
 -  `mlops Repo` on Github  - Repository to version your code
--  `github profile & page` - Create a profile and free github pages 
+-  `github profile & page` - Create a profile and free github page to showcase your work
 -  `Hashnode` (chosen over Medium) - For Documenting and blogging my journey. Moved from Medium's limitation and Hashnode seems to be promising.
 -  `Docusaurus` (choosen over MKDocs) - MKDocs is a static file generator &  Docusaurus is built on top of React. There are lot of tools to work on, you will come across some cool tips & tricks, so need a place to note it down for future reference.
 - `Markdown` - Markup language used for text formatting, this will help you in creating beautiful documentation 
