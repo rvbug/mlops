@@ -19,8 +19,10 @@ Before starting, some pre-requisites are :-
 - `Markdown` - Markup language used for text formatting, this will help you in creating beautiful documentation 
 - `YAML` - Most configurations use this markup language. It is now an industry standard
 - `python` (chosen over R) - Most widely used for Data science and ML
-- `jupyter notebook` - To run experiements 
+- `ML libraries` - sklearn, numpy, pandas , matplotlib, seaborn, Tensorflow/Pytorch
+- `jupyter notebook` - To run your experiements
 - `pycharm` (chosen over VSCode) - never could conect with VSCode 
+
 
 # Journey
 
