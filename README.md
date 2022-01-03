@@ -1,7 +1,7 @@
 # MLOPs - ML in Prod
 
 
-Yes, you have the best model in jupyter notebook and it is time to put this in production.
+Yes, you have the best model in jupyter notebook and it is time to put this in production. MLOPs is a practise to productionize and monitor your models
 
 
 ## But Why... 
@@ -27,4 +27,7 @@ Before starting, some pre-requisites are :-
 
 # Journey
 
+- `Makefile` - A utility to define & execute set of tasks and their dependencies
+- `setup.py` (Chosen over CookieCutter for DataScience) - set of folders and files to be created via python script, using my on version for better control
+- 
 
