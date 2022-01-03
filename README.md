@@ -12,7 +12,7 @@ Why another repo - It is my way of giving it back to the commuinity - especially
 Before starting, some pre-requisites are :-
 
 -  `git, github & a repo` - No kidding!! To version your code
--  `Linux` - Absolute must 
+-  `Linux` - Any distro but an Absolute must 
 -  `github profile & page` - Create a profile and free github page to showcase your work
 -  `Hashnode` (chosen over Medium) - For Documenting and blogging my journey. Moved due to Medium's limitation, Hashnode seems to be promising.
 -  `Docusaurus` (choosen over MKDocs) - You will come across lots of tools. This will help in documenting your journey, tips & tricks
