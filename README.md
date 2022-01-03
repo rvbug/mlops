@@ -8,7 +8,8 @@ Yes, you have the best model in jupyter notebook and it is time to put this in p
 Why another repo - It is my way of giving it back to the commuinity - especially beginners who are lost as I was 
 
 ## Pre-requisites
-Before starting, some pre-requisites are
+(Feel free to select what you are comfortable with - these are my options only and I feel the technology & tools chooses you ;)
+Before starting, some pre-requisites are :-
 
 - `git & github` - No kidding!!
 -  `mlops Repo` on Github  - Repository to version your code
@@ -18,6 +19,8 @@ Before starting, some pre-requisites are
 - `Markdown` - Markup language used for text formatting, this will help you in creating beautiful documentation 
 - `YAML` - Most configurations use this markup language. It is now an industry standard
 - `python` (chosen over R) - Most widely used for Data science and ML
+- `jupyter notebook` - To run experiements 
+- `pycharm` (chosen over VSCode) - never could conect with VSCode 
 
 # Journey
 
