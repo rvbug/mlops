@@ -10,6 +10,7 @@ Why another repo - It is my way of giving it back to the commuinity - especially
 ## Pre-requisites
 Before starting, some pre-requisites are
 
+- `git & github` - No kidding!!
 -  `mlops Repo` on Github  - Repository to version your code
 -  `github profile & page` - Create a profile and free github page to showcase your work
 -  `Hashnode` (chosen over Medium) - For Documenting and blogging my journey. Moved due to Medium's limitation, Hashnode seems to be promising.
