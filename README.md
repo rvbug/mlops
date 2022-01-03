@@ -1,32 +1,14 @@
-# mlops
-#### ML in production
-
-## Setup
-- Makefile
-- MKDocs 
-- pipenv
-- Markdown
-
-- YAML
-
-## Development
-- folder structure 
-- Python
-- Pytest
-- setuptools
+# MLOPs - ML in Prod
 
 
-## Others
+Yes, you have the best model in jupyter notebook and it is time to put this in production. 
+This repo will help you get to production quickly.
 
-- Docker
-- Kubernetes
-- Prometheus 
-- Grafana
-- Minio
-- Seldon
-- DCV
-- CML
-- Hydra
-- Terraform
-- Neo4J
 
+## But Why... 
+Why another repo - It is my way of giving it back to the commuinity - especially beginners who are lost as I was 
+
+
+## Before starting... 
+- 
+- 
