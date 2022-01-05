@@ -5,7 +5,7 @@ Yes, you have the best model in jupyter notebook and it is time to put this in p
 
 
 ## But Why... 
-Why another repo - It is my way of giving it back to the commuinity - especially beginners who are lost as I was 
+Why another repo - Sharing and documenting my learnings as I go along. Hopefully it will help someone who are as lost as I was.
 
 ## Pre-requisites
 (Feel free to select what you are comfortable with - these are my options only and I feel the technology & tools chooses you ;)
