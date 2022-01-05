@@ -15,7 +15,7 @@ Before starting, some pre-requisites are :-
 -  `Linux` - Any distro but an Absolute must 
 -  `github profile & page` - Create a profile and free github page to showcase your work
 -  `Hashnode` (chosen over Medium) - For Documenting and blogging my journey. Moved due to Medium's limitation, Hashnode seems to be promising.
--  `Docusaurus` (choosen over MKDocs) - You will come across lots of tools. This will help in documenting your journey, tips & tricks
+-  `MKDocs` (choosen over Docusaurus for now) - Will migrate to Docusaurus later, for now sticking with MKDOcs.
 -  `Markdown` - Markup language used for text formatting, this will help you in creating beautiful documentation 
 -  `YAML` - Most configurations use this markup language. It is now an industry standard
 -  `python` (chosen over R) - Most widely used for Data science and ML
